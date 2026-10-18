@@ -1,0 +1,1 @@
+Teknikproffset landningssida. Ladda upp filerna i denna mapp direkt i GitHub-repositoryts rot. Logotypen är beskuren ur tillhandahållen skärmbild och är inte en vektororiginalfil. Landsförslag bygger på webbläsarspråk, inte IP-position. Observera att teknikproffset.se leder tillbaka till landsväljaren.
